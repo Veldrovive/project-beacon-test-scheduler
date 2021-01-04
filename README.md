@@ -1,3 +1,5 @@
+**Disclaimer:** As with most similar applications, this is against Project Beacon terms of service. I made this as practice and am sharing it for education. If you wish to use this for its stated purpose, know that it may result in your account being terminated or appointments being cancelled.
+
 # Project Beacon Covid Test Scheduler
 Bypasses the [website](https://app.beacontesting.com/) and uses the project beacon api to search for and schedule an covid test. This does not magically make appointements appear, it simply waits for one to come up and then quickly books it for you so you don't lose out.
 

@@ -1,0 +1,17 @@
+{
+  "name": "covidTestAlerter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node scheduler.mjs"
+  },
+  "dependencies": {
+    "graphql": "^15.4.0",
+    "graphql-request": "^3.4.0",
+    "node-fetch": "^2.6.1",
+    "node-notifier": "^9.0.0",
+    "open": "^7.3.0",
+    "prompts": "^2.4.0"
+  }
+}
